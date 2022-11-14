@@ -1,12 +1,10 @@
-# ls
-alias ll="ls -lah"
-
-# git
 alias gadd="git add"
 alias gbranch="git branch"
 alias gcheck="git checkout"
 alias gcherry="git cherry-pick"
 alias gclone="git clone"
+alias gconfig="git config"
+alias gconfigg="git config --global"
 alias gcommit="git commit"
 alias gcommita="git commit --amend"
 alias gdiff="git diff"
